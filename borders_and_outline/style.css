@@ -1,0 +1,29 @@
+h1{
+    border: green 10px solid;
+   
+    border-radius: 15px;
+    outline-style: dashed;
+    outline-width: 10px;
+    outline-color: blue;
+    outline-offset: 10px;
+}
+
+/* p {
+    border-style: solid;
+}
+
+div {
+    border-style: solid;
+}
+
+span {
+    border-style: solid;
+} */
+
+
+
+/* * {
+    border-style: solid;
+} */
+
+
